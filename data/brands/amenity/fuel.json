@@ -1728,6 +1728,21 @@
       }
     },
     {
+      "displayName": "Equador Energia",
+      "id": "equadorenergia-c14748",
+      "locationSet": {"include": ["br"]},
+      "matchNames": [
+        "equador petroleo",
+        "posto equador"
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Equador Energia",
+        "brand:wikidata": "Q119851742",
+        "name": "Equador Energia"
+      }
+    },
+    {
       "displayName": "Erg",
       "id": "erg-e8f712",
       "locationSet": {"include": ["it"]},
